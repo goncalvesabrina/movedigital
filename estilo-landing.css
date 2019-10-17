@@ -1,0 +1,618 @@
+div.header-landing {
+    position: absolute;
+    background-image: url("/Users/goncalvesabrina/Desktop/Moved/back-landing.png");
+    width: 1441px;
+    height: 828px;
+    left: -1px;
+    top: 0px;
+}
+
+h3.h3-header {
+    position: absolute;
+    width: 166px;
+    height: 47px;
+    left: 147px;
+    top: 61px;
+    
+    font-family: Mplus 1p;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 43px;
+    letter-spacing: 2px;
+    
+    color: #FCFCFC; 
+}
+
+nav {
+    position: absolute;
+    width: 879px;
+    height: 59.36px;
+    left: 441px;
+    top: 43.64px;
+}
+
+img.user {
+    position: absolute;
+    left: 64.65%;
+    right: 34.1%;
+    top: 1.17%;
+    bottom: 98.34%;
+
+}
+p.home {
+    position: absolute;
+    width: 49px;
+    height: 18px;
+    left: 100px;
+
+    font-size: 14.4px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: #FCFCFC;
+}
+
+p.service {
+    position: absolute;
+    width: 79px;
+    height: 30px;
+    left: 200px;
+
+    font-size: 14.4px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: #FCFCFC;
+
+}
+
+p.work {
+    position: absolute;
+    width: 47px;
+    height: 30px;
+    left: 300px;
+
+    font-size: 14.4px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: #FCFCFC;
+}
+
+p.about {
+    position: absolute;
+    width: 55px;
+    height: 30px;
+    left: 400px;
+
+    font-size: 14.4px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: #FCFCFC;
+}
+
+p.telefone {
+    position: absolute;
+    width: 226px;
+    height: 31px;
+    left: 595px;
+
+    font-size: 14.4px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: #FCFCFC;
+}
+
+img.menu {
+    position: absolute;
+    width: 27px;
+    height: 16px;
+    left: 800px;
+}
+
+div.we-grow {
+    width: 852px;
+    height: 272px;
+    left: 147px;
+    top: 252px;
+}
+
+div.visit-landing {
+    position: absolute;
+    width: 833px;
+    height: 108px;
+    left: -1px;
+    top: 594px;
+
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    box-sizing: border-box;
+}
+
+p.textinho-visit {
+    position: absolute;
+    width: 555px;
+    height: 37px;
+    left: 147px;
+
+    font-size: 18px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #FCFCFC;
+}
+
+img.arrow {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 537px;
+}
+
+h6 {
+    position: absolute;
+    width: 226px;
+    height: 18px;
+    left: 147px;
+    top: 252px;
+
+    font-size: 14.4px;
+    line-height: 30px;
+    letter-spacing: 4px;
+
+    color: #FCFCFC;
+}
+
+h1 {
+    position: absolute;
+    width: 852px;
+    height: 236px;
+    left: 147px;
+    top: 288px;
+
+    font-size: 99px;
+    line-height: 118px;
+
+    color: #FCFCFC;
+}
+
+b.color-h1 {
+    color: #f61067;
+    font-size: 70px;
+}
+
+div.subscribe {
+    position: absolute;
+    width: 785px;
+    height: 320px;
+    left: 333px;
+    top: 2814px;
+}
+
+div.intro-landing {
+    position: absolute;
+    width: 1293px;
+    height: 774px;
+    left: 147px;
+    top: 936px;
+
+}
+
+div.footer-landing {
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    top: 3227px;
+
+    background: #150433;
+}
+
+button {
+    width: 197px;
+    height: 45px;
+    left: 147px;
+    top: 1458px;
+
+    background: #F61067;
+    border-radius: 36px;
+}
+
+p.texto-botao {
+    top: 1458px;
+
+    font-size: 13.5px;
+    line-height: 17px;
+    align-items: center;
+    letter-spacing: 2px;
+    color: #FCFCFC;
+}
+
+div.quote {
+    width: 705px;
+    height: 774px;
+    left: 735px;
+    top: 936px;
+}
+
+div.our-future {
+    width: 460px;
+    height: 144px;
+    left: 147px;
+    top: 1260px;
+
+    font-size: 18px;
+    line-height: 29px;
+    color: #776C82;
+}
+
+div.pessoa-bonita {
+    position: absolute;
+    width: 460px;
+    height: 738px;
+    left: 500px;
+    top: 42px;
+    background-image: url("/Users/goncalvesabrina/Desktop/Moved/photo.png");
+}
+
+div.roxinho {
+    position: absolute;
+    width: 503px;
+    height: 540px;
+    left: 790px;
+    top: 10px;
+    background: #30124E;
+    mix-blend-mode: normal;
+}
+
+div.outro-roxo {
+    position: absolute;
+    width: 377px;
+    height: 509px;
+    left: 867px;
+    top: 42px;
+    background: #30124E;
+    mix-blend-mode: normal;
+}
+
+p.aspas {
+    position: absolute;
+    width: 71px;
+    height: 128px;
+    left: 50px;
+    top: -50px;
+
+    font-family: Noticia Text;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 144px;
+    line-height: 216px;
+    color: #F4F4ED;
+    opacity: 0.25;
+}
+
+p.aspas2 {
+    position: absolute;
+    width: 71px;
+    height: 128px;
+    left: 250px;
+    top: 129px;
+
+    font-family: Noticia Text;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 144px;
+    line-height: 216px;
+    color: #F4F4ED;
+    opacity: 0.25;
+}
+
+p.roxinho-quote {
+    position: absolute;
+    width: 255px;
+    height: 486px;
+    left: 88px;
+    font-size: 22.5px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+
+    color: #FCFCFC;
+}
+
+div.services-landing {
+    position: absolute;
+    width: 1440px;
+    height: 870px;
+    left: 0px;
+    top: 1804px;
+    background: #150433;
+}
+
+div.amazing {
+    position: absolute;
+    width: 224px;
+    height: 24px;
+    left: 608px;
+    top: 80px;
+
+    font-size: 12.6px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: #F61067;
+}
+
+div.servicinho {
+    position: absolute;
+    width: 295px;
+    height: 67px;
+    left: 572px;
+    top: 170px;
+
+    font-size: 45px;
+    line-height: 67px;
+
+    text-align: center;
+    color: #FCFCFC;
+}
+
+div.descricao {
+    position: absolute;
+    width: 558px;
+    height: 111px;
+    left: 441px;
+    top: 280px;
+
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FCFCFC;
+}
+
+div.um {
+    position: absolute;
+    width: 318px;
+    height: 134px;
+    left: 146px;
+    top: 500px;
+}
+
+p.webdesign {
+    height: 27px;
+    left: 146px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 27px;
+    color: #00F0B5;
+}
+
+div.dois {
+    position: absolute;
+    width: 318px;
+    height: 160px;
+    left: 539px;
+    top: 500px;
+}
+
+p.webdev {
+    height: 27px;
+    left: 539px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 27px;
+    color: #F61067;
+}
+
+div.tres {
+    position: absolute;
+    width: 318px;
+    height: 134px;
+    left: 932px;
+    top: 500px;
+}
+
+p.marketing {
+    height: 27px;
+    left: 932px;
+    text-align: center;
+    top: 500px;
+
+    font-size: 18px;
+    line-height: 27px;
+    color: #F67110;
+
+}
+
+button.serv {
+    position: absolute;
+    width: 197px;
+    height: 45px;
+    left: 598px;
+    top: 700px;
+
+    background: #F61067;
+    border-radius: 36px;
+    border-color: #F61067;;
+}
+
+p.serv-learn {
+    height: 45px;
+    left: 643px;
+
+    font-size: 13.5px;
+    line-height: 20px;
+    align-items: center;
+    letter-spacing: 2px;
+    color: #FCFCFC;
+}
+
+/* div.class {
+    position: absolute;
+    width: 558px;
+    height: 111px;
+    left: 441px;
+    top: 2044px;
+
+    font-size: 18px;
+    line-height: 29px;
+    text-align: center;
+    background: #FCFCFC;
+} */
+
+h4.news {
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 67px;
+    text-align: center;
+    color: #30233D;
+}
+
+h6.newsh6 {
+    position: absolute;
+    width: 334px;
+    height: 27px;
+    top: 100px;
+    left: 240px;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #776C82;
+}
+
+div.newsletter-landing {
+    position: absolute;
+    width: 1440px;
+    height: 870px;
+    left: 0px;
+}
+
+button.buttonsub {
+    position: absolute;
+    width: 227px;
+    height: 57px;
+    left: 300px;
+    top: 300px;
+    background: #ffffff;
+}
+
+p.psub {
+    font-size: 12.6px;
+    line-height: 26px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: #F61067;
+}
+
+h3.footlog {
+    position: absolute;
+    width: 99px;
+    height: 43px;
+    left: 147px;
+    top: 40px;
+    font-size: 24px;
+    line-height: 43px;
+    letter-spacing: 2px;
+    color: #FCFCFC;
+}
+
+h5.footlog2 {
+    position: absolute;
+    height: 53px;
+    left: 147px;
+    right: 1127px;
+    top: 100px;
+
+    font-size: 16.2px;
+    line-height: 26px;
+    color: #FCFCFC;
+}
+
+div.menu-footer {
+    position: absolute;
+    width: 100px;
+    height: 224px;
+    left: 441px;
+    top: 40px;
+}
+
+p.menuzin {
+    width: 62px;
+    height: 27px;
+    left: 441px;
+
+    font-size: 12.6px;
+    line-height: 26px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: #FCFCFC;
+}
+
+p.menumenu {
+    width: 58px;
+    left: 441px;
+    font-size: 12.6px;
+    line-height: 28px;
+    letter-spacing: 1px;
+
+    color: #FCFCFC;
+}
+
+div.services-footer {
+    position: absolute;
+    width: 110px;
+    height: 167px;
+    left: 700px;
+    top: 40px;
+}
+
+p.menuzin2 {
+    width: 62px;
+    height: 27px;
+    left: 700px;
+
+    font-size: 12.6px;
+    line-height: 26px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: #FCFCFC;
+}
+
+p.menumenu2 {
+    width: 58px;
+    left: 700px;
+    font-size: 12.6px;
+    line-height: 28px;
+    letter-spacing: 1px;
+
+    color: #FCFCFC;
+}
+
+div.contact-footer {
+    position: absolute;
+    width: 186px;
+    height: 167px;
+    left: 920px;
+    top: 40px;
+}
+
+p.menuzin3 {
+    width: 150px;
+    height: 27px;
+    left: 920px;
+
+    font-size: 12.6px;
+    line-height: 26px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: #FCFCFC;
+}
+
+p.menumenu3 {
+    width: 150px;
+    left: 920px;
+    font-size: 12.6px;
+    line-height: 28px;
+    letter-spacing: 1px;
+
+    color: #FCFCFC;
+}
+

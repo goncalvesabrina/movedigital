@@ -1,0 +1,138 @@
+div.header-email {
+    position: absolute;
+    width: 600px;
+    height: 79px;
+    left: 0px;
+
+    background: #150433;
+
+}
+
+img.logo {
+    position: absolute;
+    height: 33px;
+    width: 125px;
+    top: 42%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+div.imagem {
+    position: absolute;
+    width: 600px;
+    height: 360px;
+    left: 0px;
+    top: 79px;
+
+    background-image: url("https://movedigital.com.br/img/heroBG-large.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+div.headline {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+h1.h1-email {
+    font-size: 54px;
+    color: #F2C94C;
+}
+
+h3.h3-email {
+    font-size: 18px;
+    color: #F4F4ED;
+}
+
+div.grande-bloco {
+    position: absolute;
+    width: 555px;
+    height: 677px;
+    left: 45px;
+    top: 439px;
+
+
+    font-size: 17px;
+    color: #F61067;
+}
+
+div.dados {
+    position: absolute;
+    width: 343px;
+    height: 677px;
+    left: 192px;
+    top: 0px;
+    background: #5E239D;
+
+    font-size: 20px;
+    color: #F4F4ED;
+    padding-left: 20px;
+}
+
+div.research {
+    position: absolute;
+    width: 362px;
+    height: 362px;
+    left: 119px;
+    top: 901px;
+    background: #F61067;
+}
+
+img.icon {
+    position: absolute;
+    margin: 10px;
+}
+
+h5.titulo-research {
+    position: absolute;
+    top: 70px;
+    left: 10px;
+    font-size: 20px;
+    color: #FCFCFC;
+}
+
+p.texto-research {
+    position: absolute;
+    top: 130px;
+    left: 10px;
+    font-size: 16px;
+    color: #FCFCFC;
+}
+
+div.footer-email {
+    position: absolute;
+    width: 600px;
+    height: 151px;
+    left: 0px;
+    top: 1313px;
+
+    background: #150433;
+}
+
+div.follow {
+    position: absolute;
+    width: 264px;
+    height: 70px;
+    left: 168px;
+    top: 50px;
+
+    font-size: 12px;
+    letter-spacing: 6px;
+    color: #FCFCFC;
+    text-align: center;
+}
+
+a.links {
+    text-decoration: none;
+    padding: 5px;
+}
+
+
+
+

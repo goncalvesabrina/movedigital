@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Desafio Move</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script src= "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"> </script> 
+    <link rel='stylesheet' type='text/css' media='screen' href='/Users/goncalvesabrina/Desktop/Moved/estilo.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='/Users/goncalvesabrina/Desktop/Moved/estilo-landing.css'>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+    <script> 
+        $(document).ready(function() { 
+
+            $(".buttonsub").click(function() { 
+                
+            var nome = $("#nome").val();
+            var email = $("#email").val(); 
+
+            var queryString = "?para1=" + nome + "&para2=" + email;
+            
+            window.location.href='/Users/goncalvesabrina/Desktop/Moved/email.html';
+                
+            }); 
+
+        }); 
+    </script> 
+</head>
+<body>
+    <div class="header-landing">
+            <h3 class="h3-header">Looper</h3>
+            <nav>
+                <p class="home">Home</p>
+                <p class="service">Services</p>
+                <p class="work">Work</p>
+                <p class="about">About</p>
+                <img src="/Users/goncalvesabrina/Desktop/Moved/user.png" class="user">
+                <p class="telefone"> 11 0000.0000</p>
+
+                <img src="/Users/goncalvesabrina/Desktop/Moved/menu.png" class="menu">
+            </nav>
+
+            <div class="we-grow">
+                <h6>WHAT WE DO?</h6>
+                <h1>We grow <br><b class="color-h1">great business</b></h1>
+            </div>
+
+            <div class="visit-landing">
+                <p class="textinho-visit">
+                    Ut nec sapien id quam vulputate egestas at eu tellus. 
+                    <img src="/Users/goncalvesabrina/Desktop/Moved/arrow.png" class="arrow">
+                </p>
+            </div>
+    </div>
+    <div class="intro-landing">
+        <div class="our-future">
+            <p style="color: #F61067;">INTRO</p>
+            <p style="font-size: 41px;">Our future</p>
+            <p><b>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.</b></p>
+            <br>
+            <p>By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, 
+                and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver.</p>
+            <br>
+            <button><p class="texto-botao">LEARN MORE</p></button>
+        </div>
+        <div class="quote">   
+            <div class="roxinho"></div>
+            <div class="pessoa-bonita"></div>
+            <div class="outro-roxo">
+                <p class="aspas">"</p>
+                <p class="roxinho-quote">Commodo sed egestas egestas fringilla phasellus faucibus.</p>
+                <p class="aspas2">"</p>
+            </div>
+        </div>
+    </div>
+    <div class="services-landing">
+        <div class="amazing">We are amazing!</div>
+        <div class="servicinho">Our services</div>
+        <div class="descricao">Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Quam elementum pulvinar etiam non. Eu consequat.</div>
+        <div class="um">
+            <p class="webdesign">WebDesign</p>
+            <p style="font-size: 16.2px;color: #FCFCFC;">Tincidunt lobortis feugiat vivamus at augue eget. Risus feugiat in ante metus dictum. Amet aliquam id diam maecenas.</p>
+        </div>
+        <div class="dois">
+            <p class="webdev">WebDev</p>
+            <p style="font-size: 16.2px;color: #FCFCFC;">Tincidunt lobortis feugiat vivamus at augue eget. Risus feugiat in ante metus dictum. Amet aliquam id diam maecenas.</p>
+        </div>
+        <div class="tres">
+            <p class="marketing">Marketing</p>
+            <p style="font-size: 16.2px;color: #FCFCFC;">Tincidunt lobortis feugiat vivamus at augue eget. Risus feugiat in ante metus dictum. Amet aliquam id diam maecenas.</p>
+        </div>
+        <button class="serv"><p class="serv-learn">LEARN MORE</p></button>
+    </div>
+    <div class="newsletter-landing">
+        <div class="subscribe">
+            <h4 class="news">Subscribe to our newsletter</h4>
+            <h6 class="newsh6">Cras pulvinar mattis nunc sed blandit.</h6>
+
+            <p style="position: absolute;height: 39px;top: 200px;">
+                <input class="w3-input w3-border w3-hover-blue nome" style="width:300px" id="nome" type="text" placeholder="Nome"> 
+            </p>
+            <p style="position: absolute;height: 39px;left: 485px;top: 200px;"> 
+                <input class="w3-input w3-border w3-hover-blue email" style="width:300px" id="email" type="text" placeholder="E-mail">
+            </p>
+            <button class="buttonsub"><p class="psub">SUBSCRIBE</p></button>
+        </div>
+
+        <div class="footer-landing">
+            <div class="logo-footer">
+                <h3 class="footlog">Looper</h3>
+                <h5 class="footlog2"><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</b></h5>
+            </div>
+            <div class="menu-footer">
+                <p class="menuzin">Menu</p>
+                <p class="menumenu">Home</p>
+                <p class="menumenu">About</p>
+                <p class="menumenu">Services</p>
+                <p class="menumenu">News</p>
+                <p class="menumenu">Gallery</p>
+                <p class="menumenu">Contact</p>
+            </div>
+            <div class="services-footer">
+                <p class="menuzin2">Services</p>
+                <p class="menumenu2">Lorem</p>
+                <p class="menumenu2">Ipsum</p>
+                <p class="menumenu2">Dolor</p>
+                <p class="menumenu2">Sit Amet</p>
+            </div>
+            <div class="contact-footer">
+                <p class="menuzin3">Contact Us</p>
+                <p class="menumenu3">contact@lop.com</p>
+                <p class="menumenu3">856-693-456</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
